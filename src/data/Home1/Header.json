@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": { "first": "Agência", "second": "FW Digital" },
+    "content": "Soluções em Desenvolvimento web para seu negócio",
+    "image": "/agency-1/img/slid/1.png"
+  },
+  {
+    "id": 2,
+    "title": { "first": "Digital", "second": " Design Awards" },
+    "content": "If you need to redesign your new project, new visual strategy, ux structure or you do have some cool ideas for collaboration.",
+    "image": "/agency-1/img/slid/2.png"
+  },
+  {
+    "id": 3,
+    "title": { "first": "Original Solutions" },
+    "content": "If you need to redesign your new project, new visual strategy, ux structure or you do have some cool ideas for collaboration.",
+    "image": "/agency-1/img/slid/3.png"
+  }
+]

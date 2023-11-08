@@ -1,0 +1,20 @@
+{
+  "aboutUs": "Nossa agência está classificada entre as melhores dos Brasil. Cultivamos ideias inteligentes para startups e grandes empresas.",
+  "minimals": [
+    {
+      "id": 1,
+      "title": "Our Mission",
+      "details": "luctus massa ipsum at tempus eleifend congue lectus bibendum"
+    },
+    {
+      "id": 2,
+      "title": "Our Goals",
+      "details": "luctus massa ipsum at tempus eleifend congue lectus bibendum"
+    },
+    {
+      "id": 3,
+      "title": "Why Us?",
+      "details": "luctus massa ipsum at tempus eleifend congue lectus bibendum"
+    }
+  ]
+}
