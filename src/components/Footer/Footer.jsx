@@ -57,18 +57,14 @@ const Footer = ({ classText }) => {
                           <img src={appData.lightLogo} alt="" />
                       </div>
                       <div className="social">
-                          <Link href="#0">
-                            <a><i className="fab fa-facebook-f"></i></a>
+                          <Link href="https://www.facebook.com/agenciafwdigita" passHref>
+                            <a target='_blank'><i className="fab fa-facebook-f"></i></a>
                           </Link>
-                          <Link href="#0">
-                            <a><i className="fab fa-twitter"></i></a>
+                          
+                          <Link href="https://www.instagram.com/agencia.fwdigital/" passHref >
+                            <a target='_blank'><i className="fab fa-instagram"></i></a>
                           </Link>
-                          <Link href="#0">
-                            <a><i className="fab fa-instagram"></i></a>
-                          </Link>
-                          <Link href="#0">
-                            <a><i className="fab fa-youtube"></i></a>
-                          </Link>
+                          
                       </div>
                       <div className="copy-right">
                           <p>

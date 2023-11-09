@@ -91,7 +91,7 @@ const Header = () => {
                               <p>
                                 { slide.content }
                               </p>
-                              <Link href="/contato">
+                              <Link href="/contact">
                                 <a className="btn-curve btn-lit mt-30">
                                   <span>Orçamento</span>
                                 </a>
@@ -119,9 +119,8 @@ const Header = () => {
         <div className="swiper-pagination top botm custom-font" ref={paginationRef}></div>
 
         <div className="social-icon">
-          <a href="#0"><i className="fab fa-facebook-f"></i></a>
-          <a href="#0"><i className="fab fa-instagram"></i></a>
-          
+          <a href="https://www.facebook.com/agenciafwdigita" target='_blank' rel="noreferrer"><i className="fab fa-facebook-f"></i></a>
+          <a href="https://www.instagram.com/agencia.fwdigital/" target='_blank' rel="noreferrer"><i className="fab fa-instagram"></i></a>
         </div>
       </div>
     </header>

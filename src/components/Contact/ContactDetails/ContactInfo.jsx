@@ -24,14 +24,14 @@ const ContactInfo = () => {
           <h6>{ ContactInfoData.address.street }, <br />{ ContactInfoData.address.city }, { ContactInfoData.address.country }</h6>
         </div>
         <div className="social mt-50">
-          <Link href="#0">
-            <a className="icon">
+            <Link href="https://www.facebook.com/agenciafwdigita" passHref>
+            <a target='_blank' className="icon">
               <i className="fab fa-facebook-f"></i>
             </a>
           </Link>
           
-          <Link href="#0">
-            <a className="icon">
+          <Link href="https://www.instagram.com/agencia.fwdigital/" passHref >
+            <a target='_blank' className="icon">
               <i className="fab fa-instagram"></i>
             </a>
           </Link>
