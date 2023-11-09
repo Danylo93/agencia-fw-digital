@@ -1,4 +1,28 @@
 {
+  "../components/About/CallAction/index.jsx -> ../../Split": {
+    "id": "../components/About/CallAction/index.jsx -> ../../Split",
+    "files": [
+      "static/chunks/src_components_Split_index_jsx.js"
+    ]
+  },
+  "../components/About/Intro/index.jsx -> ../../Split": {
+    "id": "../components/About/Intro/index.jsx -> ../../Split",
+    "files": [
+      "static/chunks/src_components_Split_index_jsx.js"
+    ]
+  },
+  "../components/About/Minimal/index.jsx -> ../../Split": {
+    "id": "../components/About/Minimal/index.jsx -> ../../Split",
+    "files": [
+      "static/chunks/src_components_Split_index_jsx.js"
+    ]
+  },
+  "../components/About/Testimonials/index.jsx -> ../../Split": {
+    "id": "../components/About/Testimonials/index.jsx -> ../../Split",
+    "files": [
+      "static/chunks/src_components_Split_index_jsx.js"
+    ]
+  },
   "../components/Contact/ContactDetails/ContactInfo.jsx -> ../../Split": {
     "id": "../components/Contact/ContactDetails/ContactInfo.jsx -> ../../Split",
     "files": [
