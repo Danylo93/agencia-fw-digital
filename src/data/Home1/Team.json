@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Danylo Oliveira",
+    "description": "Desenvolvedor e CTO da Agência FW Digital",
+    "img": "agency-1/img/team/1.png",
+    "hoverClass": "square"
+  },
+  {
+    "name": "Patricia Oliveira",
+    "description": "Gestora de Projetos e CEO da Agência FW Digital",
+    "img": "agency-1/img/team/2.jpg",
+    "hoverClass": "circle"
+  }
+]
