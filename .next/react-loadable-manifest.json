@@ -22,11 +22,5 @@
     "files": [
       "static/chunks/src_components_Split_index_jsx.js"
     ]
-  },
-  "../components/Contact/ContactDetails/ContactInfo.jsx -> ../../Split": {
-    "id": "../components/Contact/ContactDetails/ContactInfo.jsx -> ../../Split",
-    "files": [
-      "static/chunks/src_components_Split_index_jsx.js"
-    ]
   }
 }

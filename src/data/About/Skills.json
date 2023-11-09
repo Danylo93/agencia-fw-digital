@@ -1,14 +1,26 @@
 [
   {
     "id": 1,
-    "title": "Project",
-    "subtitle": "Consulting",
+    "title": "Gestão",
+    "subtitle": "das Mídias sociais",
     "value": 90
   },
   {
     "id": 2,
-    "title": "App",
-    "subtitle": "Development",
+    "title": "Desenvolvimento",
+    "subtitle": "de Aplicativos",
     "value": 75
+  },
+  {
+    "id": 3,
+    "title": "Desenvolvimento",
+    "subtitle": "Sites",
+    "value": 65
+  },
+  {
+    "id": 4,
+    "title": "Tráfego",
+    "subtitle": "Pago",
+    "value": 55
   }
 ]

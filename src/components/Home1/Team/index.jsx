@@ -89,7 +89,7 @@ const Team = () => {
                 </div>
                 <div className="link-go">
                   <Link href="#0">
-                    <a>Wanna join the team?</a>
+                    <a>Quer fazer parte do time?</a>
                   </Link>
                 </div>
               </div>

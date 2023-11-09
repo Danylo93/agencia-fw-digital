@@ -25,7 +25,7 @@ const Index = () => {
       <Works />
       <Testimonials />
       <Clients />
-      <Team />
+     
       
     </MainLayout>
   )
