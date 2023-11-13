@@ -3,6 +3,7 @@ import { useEffect, useRef } from "react";
 import Navbar from "../components/Navbar/Navbar";
 import Footer from "../components/Footer/Footer";
 import Head from "next/head";
+import { FloatingWhatsApp } from 'react-floating-whatsapp'
 
 const MainLayout = ({ children, footerClass }) => {
   const navbarRef = useRef(null);
@@ -28,7 +29,8 @@ const MainLayout = ({ children, footerClass }) => {
       </Head>
 
       <Navbar navbarRef={navbarRef} logoRef={logoRef} />
-      { children }
+      {children}
+      <FloatingWhatsApp phoneNumber="5511983626321" accountName="Agência FW Digital" chatMessage="Olá, seja muito bem vindo, em que posso ajuda-lo(a)?" placeholder="Digite aqui a sua mensagem" statusMessage="Marketing e Desenvolvimento"/>
       <Footer classText={footerClass} />
     </>
   );
