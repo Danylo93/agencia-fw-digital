@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import MainLayout from "../../layouts/main";
-
+import { FloatingWhatsApp } from 'react-floating-whatsapp'
 import Header from "../../components/Home1/Header";
 import Services from "../../components/Home1/Services";
 import Block from "../../components/Home1/Block";
