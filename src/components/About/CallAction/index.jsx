@@ -16,17 +16,17 @@ const CallAction = () => {
           <div className="col-md-8 col-lg-9">
             <div className="content sm-mb30">
               <Split className="wow">
-                <h6 data-splitting>Let’s Talk</h6>
+                <h6 data-splitting>Vamos conversar</h6>
               </Split>
               <Split className="wow custom-font">
-                <h2 data-splitting>about your <b>next project</b>.</h2>
+                <h2 data-splitting>sobre seu  <b>próximo projeto?</b>.</h2>
               </Split>
             </div>
           </div>
 
           <div className="col-md-4 col-lg-3 valign">
             <Link href="/contact">
-              <a className="btn-curve btn-lit"><span>Get In Touch</span></a>
+              <a className="btn-curve btn-lit"><span>Entre em contato</span></a>
             </Link>
           </div>
         </div>

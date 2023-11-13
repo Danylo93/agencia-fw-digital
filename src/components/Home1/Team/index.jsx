@@ -29,18 +29,13 @@ const Team = () => {
                     <h6>{ teamMember.name }</h6>
                     <p>{ teamMember.description }</p>
                     <div className="social">
-                      <Link href="#0">
-                        <a><i className="fab fa-facebook-f"></i></a>
-                      </Link>
-                      <Link href="#0">
-                        <a><i className="fab fa-twitter"></i></a>
-                      </Link>
-                      <Link href="#0">
-                        <a><i className="fab fa-instagram"></i></a>
-                      </Link>
-                      <Link href="#0">
-                        <a><i className="fab fa-youtube"></i></a>
-                      </Link>
+                       <Link href="https://www.facebook.com/agenciafwdigita" passHref>
+                            <a target='_blank'><i className="fab fa-facebook-f"></i></a>
+                        </Link>
+                      <Link href="https://www.instagram.com/agencia.fwdigital/" passHref >
+                            <a target='_blank'><i className="fab fa-instagram"></i></a>
+                        </Link>
+                      
                     </div>
                   </div>
                 </div>
@@ -66,14 +61,9 @@ const Team = () => {
                         <a><i className="fab fa-facebook-f"></i></a>
                       </Link>
                       <Link href="#0">
-                        <a><i className="fab fa-twitter"></i></a>
-                      </Link>
-                      <Link href="#0">
                         <a><i className="fab fa-instagram"></i></a>
                       </Link>
-                      <Link href="#0">
-                        <a><i className="fab fa-youtube"></i></a>
-                      </Link>
+                      
                     </div>
                   </div>
                 </div>
@@ -89,7 +79,7 @@ const Team = () => {
                 </div>
                 <div className="link-go">
                   <Link href="#0">
-                    <a>Wanna join the team?</a>
+                    <a>Quer fazer parte do time?</a>
                   </Link>
                 </div>
               </div>

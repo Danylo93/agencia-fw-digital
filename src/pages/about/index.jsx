@@ -25,7 +25,7 @@ const Index = () => {
       <Services />
       <Testimonials />
       <Skills />
-      <Team />
+      
       <Minimal />
       <Clients />
       <CallAction />

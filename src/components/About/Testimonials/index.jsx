@@ -27,24 +27,16 @@ const Testimonials = () => {
   return (
     <>
       <section className="block-sec">
-        <div className="background bg-img section-padding pb-0" data-background="/assets/img/1.jpg" data-overlay-dark="6">
+        <div className="background bg-img section-padding pb-0" data-background="/assets/img/about-1.png" data-overlay-dark="6">
           <div className="container">
             <div className="row">
               <div className="col-lg-6">
                 <div className="vid-area">
-                  <div className="vid-icon">
-                    <div className="vid" onClick={() => setIsOpen(true)}>
-                      <div className="vid-butn">
-                        <span className="icon">
-                          <i className="fas fa-play"></i>
-                        </span>
-                      </div>
-                    </div>
-                  </div>
+                  
 
                   <div className="cont">
                     <Split className="wow">
-                      <h3 data-splitting>{ TestimonialsData.videoText }</h3>
+                     
                     </Split>
                   </div>
                 </div>
@@ -52,8 +44,8 @@ const Testimonials = () => {
               <div className="col-lg-5 offset-lg-1">
                 <div className="testim-box">
                   <div className="head-box">
-                    <h6 className="wow fadeIn" data-wow-delay=".5s">Our Happy Clients</h6>
-                    <h4 className="wow fadeInLeft" data-wow-delay=".5s">What Client&apos;s Say?</h4>
+                    <h6 className="wow fadeIn" data-wow-delay=".5s">Nossos clientes satisfeitos</h6>
+                    <h4 className="wow fadeInLeft" data-wow-delay=".5s">O que nossos Clientes estão dizendo?</h4>
                   </div>
                   <Slider {...testimonialsSliderSettings} className="slic-item wow fadeInUp slick-dotted" data-wow-delay=".5s">
                     {
@@ -83,15 +75,7 @@ const Testimonials = () => {
           </div>
         </div>
       </section>
-      <NoSSR>
-        <ModalVideo
-          channel={TestimonialsData.video.channel}
-          autoplay
-          isOpen={isOpen}
-          videoId={TestimonialsData.video.id}
-          onClose={() => setIsOpen(false)}
-        />
-      </NoSSR>
+      
     </>
   )
 }

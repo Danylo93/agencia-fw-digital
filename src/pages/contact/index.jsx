@@ -13,7 +13,7 @@ const Index = () => {
   return (
     <ContactLayout footerClass="bg-gray">
       <ContactDetails />
-      <ContactMap />
+      
     </ContactLayout>
   )
 }

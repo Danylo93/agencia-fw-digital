@@ -7,14 +7,14 @@
   },
   {
     "id": 2,
-    "title": { "first": "Digital", "second": " Design Awards" },
-    "content": "If you need to redesign your new project, new visual strategy, ux structure or you do have some cool ideas for collaboration.",
+    "title": { "first": "Gestão", "second": " de Projetos" },
+    "content": "Transformamos ideias em experiências digitais extraordinárias.",
     "image": "/agency-1/img/slid/2.png"
   },
   {
     "id": 3,
-    "title": { "first": "Original Solutions" },
-    "content": "If you need to redesign your new project, new visual strategy, ux structure or you do have some cool ideas for collaboration.",
+    "title": { "first": "Desenvolvimento de Aplicativos" },
+    "content": "Além dos limites: soluções digitais que inspiram.",
     "image": "/agency-1/img/slid/3.png"
   }
 ]

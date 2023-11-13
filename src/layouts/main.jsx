@@ -4,7 +4,6 @@ import Navbar from "../components/Navbar/Navbar";
 import Footer from "../components/Footer/Footer";
 import Head from "next/head";
 import { FloatingWhatsApp } from 'react-floating-whatsapp'
-
 const MainLayout = ({ children, footerClass }) => {
   const navbarRef = useRef(null);
   const logoRef = useRef(null);

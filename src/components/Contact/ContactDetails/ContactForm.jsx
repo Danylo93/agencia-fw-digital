@@ -42,7 +42,7 @@ const ContactForm = () => {
   return (
     <div className="col-lg-6">
       <div className="form md-mb50">
-        <h4 className="extra-title mb-50">Get In Touch.</h4>
+        <h4 className="extra-title mb-50">Entre em contato.</h4>
 
         <Formik
           initialValues={{
@@ -63,7 +63,7 @@ const ContactForm = () => {
                   id="form_name"
                   type="text"
                   name="name"
-                  placeholder="Name"
+                  placeholder="Nome"
                   required="required"
                 />
               </div>
@@ -73,7 +73,7 @@ const ContactForm = () => {
                   id="form_email"
                   type="email"
                   name="email"
-                  placeholder="Email"
+                  placeholder="E-mail"
                   required="required"
                 />
               </div>
@@ -83,13 +83,13 @@ const ContactForm = () => {
                   as="textarea"
                   id="form_message"
                   name="message"
-                  placeholder="Message"
+                  placeholder="Mensagem"
                   rows="4"
                   required="required"
                 />
               </div>
 
-              <button type="submit" className="btn-curve btn-lit"><span>Send Message</span></button>
+              <button type="submit" className="btn-curve btn-lit"><span>Enviar Mensagem</span></button>
             </div>
           </Form>
         </Formik>

@@ -50,28 +50,17 @@ const Navbar = ({ navbarRef, logoRef }) => {
             {/* navbar links */}
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
               <ul className="navbar-nav ml-auto">
-                <li className="nav-item dropdown" onClick={handleDropdown}>
-                  <span className="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                    Home
-                  </span>
-                  <div className="dropdown-menu">
-                    <Link href="/home1">
-                      <a className="dropdown-item">Home</a>
-                    </Link>
-                    <Link href="/home2">
-                      <a className="dropdown-item">Serviços</a>
-                    </Link>
-                    <Link href="/home3">
-                      <a className="dropdown-item">Sobre</a>
-                    </Link>
-                  </div>
+                <li className="nav-item">
+                  <Link href="/">
+                    <a className="nav-link">Home</a>
+                  </Link>
                 </li>
                 <li className="nav-item">
                   <Link href="/about">
                     <a className="nav-link">Sobre</a>
                   </Link>
                 </li>
-                <li className="nav-item dropdown" onClick={handleDropdown}>
+                {/* <li className="nav-item dropdown" onClick={handleDropdown}>
                   <span className="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Portfolio</span>
                   <div className="dropdown-menu">
                     <Link href="/works1">
@@ -84,12 +73,12 @@ const Navbar = ({ navbarRef, logoRef }) => {
                       <a className="dropdown-item">Pinterest List</a>
                     </Link>
                   </div>
-                </li>
-                <li className="nav-item">
+                </li> */}
+                {/* <li className="nav-item">
                   <Link href="/blog">
                     <a className="nav-link">Blogs</a>
                   </Link>
-                </li>
+                </li> */}
                 <li className="nav-item">
                   <Link href="/contact">
                     <a className="nav-link">Contato</a>
