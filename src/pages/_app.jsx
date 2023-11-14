@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/next-script-for-ga */
 import Head from "next/head";
 import Script from "next/script";
 
@@ -16,7 +17,7 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <title>Agência FW Digital | Marketing & Desenvolvimento</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-        <>
+        
         <script
           dangerouslySetInnerHTML={{
            __html: `(function(w,d,s,l,i){w[l] = w[l] || [];w[l].push({'gtm.start':
@@ -26,7 +27,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-5XFB7CTQ');`,
           }}
         />
-        </>
+        
 
         <noscript>
         <iframe
