@@ -13,8 +13,8 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-          <meta name="keywords" content="React Nextjs template ruko onepage themeforest" />
-          <meta name="description" content="ruko - Onepage Multi-Purpose Reactjs Template" />
+          <meta name="keywords" content="criar sites" />
+          <meta name="description" content="Desenvolvimento de sites e aplicativos" />
           <meta name="author" content="" />
 
           <link rel="shortcut icon" href="/assets/img/logo.png" />
