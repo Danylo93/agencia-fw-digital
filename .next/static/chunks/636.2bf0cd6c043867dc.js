@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[636],{8636:function(e,n,r){r.r(n);var t=r(5893),u=r(7294);n.default=function(e){var n=e.className,r=e.children,c=(0,u.useRef)(null);return(0,u.useEffect)((function(){c.current&&Splitting({target:c.current})}),[]),(0,t.jsx)("div",{ref:c,className:n||"",children:r})}}}]);
