@@ -29,7 +29,7 @@ const MainLayout = ({ children, footerClass }) => {
 
       <Navbar navbarRef={navbarRef} logoRef={logoRef} />
       {children}
-      <FloatingWhatsApp phoneNumber="5511983626321" accountName="Agência FW Digital" chatMessage="Ola, seja muito bem vindo, em que posso ajuda-lo?" placeholder="Digite aqui a sua mensagem" statusMessage="Marketing e Desenvolvimento"/>
+      <FloatingWhatsApp phoneNumber="5511983626321" accountName="Agência FW Digital" chatMessage="Olá, seja muito bem vindo, em que posso ajuda-lo(a)?" placeholder="Digite aqui a sua mensagem" statusMessage="Marketing e Desenvolvimento"/>
       <Footer classText={footerClass} />
     </>
   );
