@@ -27,10 +27,6 @@ class MyDocument extends Document {
           <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@200;300;400;500;600;700&display=swap" rel="stylesheet" />
           
         </Head>
-        <>
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5XFB7CTQ"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-        </>
         
         <body>
           <Main />
