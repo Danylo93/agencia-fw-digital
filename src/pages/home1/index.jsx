@@ -6,7 +6,7 @@ import Block from "../../components/Home1/Block";
 import Works from "../../components/Home1/Works";
 import Testimonials from "../../components/Home1/Testimonials";
 import Clients from "../../components/Home1/Clients";
-import { GoogleTagManager } from '@next/third-parties/google'
+
 
 const Index = () => {
   useEffect(() => {
@@ -17,7 +17,7 @@ const Index = () => {
 
   return (
     <MainLayout footerClass="bg-dark">
-      <GoogleTagManager gtmId="GTM-5XFB7CTQ" />
+      
       <Header />
       <Services />
       <Block />
