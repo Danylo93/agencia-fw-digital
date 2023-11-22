@@ -9,6 +9,7 @@ import Testimonials from "../../components/Home1/Testimonials";
 import Clients from "../../components/Home1/Clients";
 import Team from "../../components/Home1/Team";
 import Blogs from "../../components/Home1/Blog";
+import { GoogleTagManager, sendGTMEvent } from '@next/third-parties/google'
 
 const Index = () => {
   useEffect(() => {
@@ -19,6 +20,7 @@ const Index = () => {
 
   return (
     <MainLayout footerClass="bg-dark">
+      <GoogleTagManager gtmId="GTM-5XFB7CTQ" />
       <Header />
       <Services />
       <Block />
