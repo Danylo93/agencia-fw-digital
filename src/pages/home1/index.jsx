@@ -1,15 +1,12 @@
 import { useEffect } from "react";
 import MainLayout from "../../layouts/main";
-import { FloatingWhatsApp } from 'react-floating-whatsapp'
 import Header from "../../components/Home1/Header";
 import Services from "../../components/Home1/Services";
 import Block from "../../components/Home1/Block";
 import Works from "../../components/Home1/Works";
 import Testimonials from "../../components/Home1/Testimonials";
 import Clients from "../../components/Home1/Clients";
-import Team from "../../components/Home1/Team";
-import Blogs from "../../components/Home1/Blog";
-import { GoogleTagManager, sendGTMEvent } from '@next/third-parties/google'
+import { GoogleTagManager } from '@next/third-parties/google'
 
 const Index = () => {
   useEffect(() => {
