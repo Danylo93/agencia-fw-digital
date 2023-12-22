@@ -10,7 +10,10 @@ const LoadingScreen = () => {
     if (appData.showLoading) {
       loadingPace();
       if (bodyEl.classList.contains("hideX")) bodyEl.classList.remove("hideX");
-    } else {
+    } else if (appData.isMobile) {
+      !loadingPace();
+      bodyEl.classList.add("hideX");
+    }else {
       bodyEl.classList.add("hideX");
     }
   });
