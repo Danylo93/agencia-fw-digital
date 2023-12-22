@@ -3707,7 +3707,7 @@ body {
 }
 
 .pricing .item.active {
-  background: #8d83ff;
+  background: #6d47e8;
   position: relative;
 }
 
@@ -3732,14 +3732,16 @@ body {
 .pricing .item .title h5 {
   letter-spacing: 2px;
   text-transform: uppercase;
-  font-size: 15px;
+  font-size: 19px;
   font-weight: 600;
   margin-bottom: 25px;
+  color: #fff;
 }
 
 .pricing .item .amount h2 {
   font-weight: 600;
   line-height: 1;
+  color: #fff;
 }
 
 .pricing .item .amount h2 span {
@@ -3763,6 +3765,7 @@ body {
 
 .pricing .item .cont ul {
   margin: 0;
+  color: #fff;
 }
 
 .pricing .item .cont ul li {

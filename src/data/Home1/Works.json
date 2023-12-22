@@ -2,47 +2,47 @@
   {
     "img": "agency-1/img/work/1.jpeg",
     "tooltip_title": "Criação de Sites",
-    "tooltip_sub": "Modern & Creative"
+    "tooltip_sub": "Site Institucional"
   },
   {
     "first": {
       "img": "agency-1/img/work/2.jpeg",
       "tooltip_title": "Criação de Sites",
-      "tooltip_sub": "Modern & Creative"
+      "tooltip_sub": "Site Institucional"
     },
     "second": {
       "img": "agency-1/img/work/3.jpeg",
-      "tooltip_title": "Criação de Sites",
-      "tooltip_sub": "Modern & Creative"
+      "tooltip_title": "E-commerce",
+      "tooltip_sub": "Loja Virtual"
     }
   },
   {
     "first": {
       "img": "agency-1/img/work/4.jpeg",
       "tooltip_title": "Web Design",
-      "tooltip_sub": "Modern & Creative"
+      "tooltip_sub": "Site Institucional"
     },
     "second": {
       "img": "agency-1/img/work/5.jpeg",
-      "tooltip_title": "Web Design",
-      "tooltip_sub": "Modern & Creative"
+      "tooltip_title": "Gestão de Redes Sociais",
+      "tooltip_sub": "Estratégia de Marketing"
     }
   },
   {
     "first": {
       "img": "agency-1/img/work/6.jpeg",
-      "tooltip_title": "Web Design",
-      "tooltip_sub": "Modern & Creative"
+      "tooltip_title": "Criação de Apps",
+      "tooltip_sub": "Projeto de Aplicativos Mobile"
     },
     "second": {
       "img": "agency-1/img/work/1.jpeg",
-      "tooltip_title": "Web Design",
-      "tooltip_sub": "Modern & Creative"
+      "tooltip_title": "Criação de Sites",
+      "tooltip_sub": "Landing Page"
     }
   },
   {
     "img": "agency-1/img/work/4.jpeg",
-    "tooltip_title": "Web Design",
-    "tooltip_sub": "Modern & Creative"
+    "tooltip_title": "E-commerce",
+    "tooltip_sub": "Loja Virtual"
   }
 ]
