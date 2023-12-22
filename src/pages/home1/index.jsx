@@ -6,6 +6,7 @@ import Block from "../../components/Home1/Block";
 import Works from "../../components/Home1/Works";
 import Testimonials from "../../components/Home1/Testimonials";
 import Clients from "../../components/Home1/Clients";
+import Pricing from "../../components/Home3/Pricing";
 
 
 const Index = () => {
@@ -23,6 +24,7 @@ const Index = () => {
       <Block />
       <Works />
       <Testimonials />
+      <Pricing id="pricing" />
       <Clients />
      
       

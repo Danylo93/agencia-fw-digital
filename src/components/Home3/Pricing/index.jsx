@@ -8,8 +8,8 @@ const Pricing = () => {
         <div className="row">
           <div className="col-lg-7">
             <div className="main-header">
-              <h6>Pricing Tables</h6>
-              <h3>Unlimited experience.</h3>
+              <h6>Conheça</h6>
+              <h3>Nossos Planos</h3>
             </div>
           </div>
         </div>
@@ -17,14 +17,22 @@ const Pricing = () => {
           {
             PricingData.map((plan, index) => (
               <div className="col-lg-4" key={index}>
-                <div className={`item ${index !== PricingData.length - 1 && 'md-mb50'} ${index == 1 && 'active'}`}>
+                <div className={`item ${index !== PricingData.length - 7 && 'active'} ${index ==  1 && 'active'}`}>
                   <div className="title">
                     <h5>{ plan.title }</h5>
                   </div>
-                  <div className="amount">
-                    <h2><span>$</span> { plan.amount }</h2>
+                  {
+                    plan.amount ? (
+                      <div className="amount">
+                    <h2><span>R$</span> { plan.amount }</h2>
                     <h6>{ plan.plan_type }</h6>
                   </div>
+                    ) : (
+                      <div className="amount">
+                    <h2>{ plan.plan_type }</h2>
+                  </div>
+                    )
+                  }
                   <div className="cont">
                     <ul>
                       {
@@ -35,8 +43,8 @@ const Pricing = () => {
                     </ul>
                   </div>
                   <div className="order">
-                    <Link href="#0">
-                      <a>Subscribe</a>
+                    <Link href="https://wa.me/5511983626321">
+                      <a target='_blank' >Fale com Nossos Especialistas</a>
                     </Link>
                   </div>
                 </div>

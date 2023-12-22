@@ -3702,10 +3702,12 @@ body {
 .pricing .item {
   text-align: center;
   padding: 50px 0;
+  border-radius: 20px;
+  margin-bottom: 30px;
 }
 
 .pricing .item.active {
-  background: #0f0f0f;
+  background: #8d83ff;
   position: relative;
 }
 
@@ -3718,12 +3720,13 @@ body {
   height: 100%;
   background: rgba(255, 255, 255, 0.05);
   z-index: -1;
+  border-radius: 20px;
 }
 
 .pricing .item.active .order a {
-  background: -webkit-linear-gradient(70deg, #2ed47c 0, #e8bf47 100%);
-  background: -o-linear-gradient(70deg, #2ed47c 0, #e8bf47 100%);
-  background: linear-gradient(20deg, #2ed47c 0, #e8bf47 100%);
+  background: -webkit-linear-gradient(70deg, #ad2ed4 0, #6d47e8 100%);
+  background: -o-linear-gradient(70deg, #ad2ed4 0, #6d47e8 100%);
+  background: linear-gradient(20deg, #ad2ed4 0, #6d47e8 100%);
 }
 
 .pricing .item .title h5 {
@@ -3769,7 +3772,7 @@ body {
 .pricing .item .order a {
   padding: 15px 40px;
   background: #fff;
-  color: #000;
+  color: #fff;
   border-radius: 30px;
 }
 

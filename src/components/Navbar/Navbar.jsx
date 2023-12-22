@@ -54,7 +54,12 @@ const Navbar = ({ navbarRef, logoRef }) => {
                   <Link href="/">
                     <a className="nav-link">Home</a>
                   </Link>
-                </li>
+            </li>
+                {/* <li className="nav-item">
+                  <Link href="/#pricing">
+                    <a className="nav-link">Planos</a>
+                  </Link>
+                </li> */}
                 <li className="nav-item">
                   <Link href="/about">
                     <a className="nav-link">Sobre</a>
