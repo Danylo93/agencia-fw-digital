@@ -22,7 +22,7 @@ const Minimal = () => {
         <div className="row">
           <div className="col-lg-6">
             <div className="img">
-              <img className="thumparallax-down" src="/assets/img/min-area.jpg" alt="" ref={imageRef} />
+              <img className="thumparallax-down" src="agency-1/img/02.png" alt="" ref={imageRef} />
             </div>
           </div>
           <div className="col-lg-6 valign">

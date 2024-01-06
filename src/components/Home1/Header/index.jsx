@@ -91,11 +91,11 @@ const Header = () => {
                               <p>
                                 { slide.content }
                               </p>
-                              <Link href="/contact">
+                              {/* <Link href="/contact">
                                 <a className="btn-curve btn-lit mt-30">
                                   <span>Orçamento</span>
                                 </a>
-                              </Link>
+                              </Link> */}
                             </div>
                           </div>
                         </div>

@@ -19,11 +19,11 @@ const Block = () => {
               <h6 className="fw-500 mb-10">{ BlockData.title }</h6>
               <h3 className="gr-text mb-20">{ BlockData.text }</h3>
               <p className="fw-300">{ BlockData.desc }</p>
-              <Link href="#0">
+              {/* <Link href="#0">
                 <a className="btn-curve btn-lit mt-40">
                   <span>Clique aqui</span>
                 </a>
-              </Link>
+              </Link> */}
             </div>
           </div>
           <div className="col-lg-6 cimg bg-img" data-background="agency-1/img/02.png" ref={uiBlockBgElem}></div>

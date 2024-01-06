@@ -1,31 +1,31 @@
 [
   {
     "id": 1,
-    "img": "agency-2/img/work/1.jpg",
-    "title": "Creativity Demand",
-    "tags": ["Design", "Wordpress"]
+    "img": "agency-2/img/work/01.png",
+    "title": "Loja Virtual - Bless me Store",
+    "tags": ["SHOPIFY", "Eccomerce"]
   },
   {
     "id": 2,
-    "img": "agency-2/img/work/2.jpg",
-    "title": "Creativity Demand",
-    "tags": ["Design", "Wordpress"]
+    "img": "agency-2/img/work/02.png",
+    "title": "Instagram - Bless me Store",
+    "tags": ["Gestão Mídias Sociais", "Tráfego Pago"]
   },
   {
     "id": 3,
-    "img": "agency-2/img/work/3.jpg",
-    "title": "Creativity Demand",
+    "img": "agency-2/img/work/03.png",
+    "title": "Consultec ",
     "tags": ["Design", "Wordpress"]
   },
   {
     "id": 4,
-    "img": "agency-2/img/work/4.jpg",
+    "img": "agency-2/img/work/04.png",
     "title": "Creativity Demand",
     "tags": ["Design", "Wordpress"]
   },
   {
     "id": 5,
-    "img": "agency-2/img/work/5.jpg",
+    "img": "agency-2/img/work/05.png",
     "title": "Creativity Demand",
     "tags": ["Design", "Wordpress"]
   }

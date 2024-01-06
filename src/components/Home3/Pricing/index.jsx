@@ -43,8 +43,8 @@ const Pricing = () => {
                     </ul>
                   </div>
                   <div className="order">
-                    <Link href="https://wa.me/5511983626321">
-                      <a target='_blank' >Fale com Nossos Especialistas</a>
+                    <Link href="https://wa.me/5511964891128">
+                      <a target='_blank' >Entre em contato</a>
                     </Link>
                   </div>
                 </div>

@@ -7,13 +7,13 @@
   },
   {
     "id": 2,
-    "title": { "first": "Gestão", "second": " de Projetos" },
+    "title": { "first": "Gestão", "second": " de Tráfego Pago" },
     "content": "Transformamos ideias em experiências digitais extraordinárias.",
     "image": "/agency-1/img/slid/2.png"
   },
   {
     "id": 3,
-    "title": { "first": "Desenvolvimento de Aplicativos" },
+    "title": { "first": "Criação de Sites" },
     "content": "Além dos limites: soluções digitais que inspiram.",
     "image": "/agency-1/img/slid/3.png"
   }

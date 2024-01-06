@@ -14,13 +14,13 @@ const Footer = ({ classText }) => {
                       </div>
                           <ul>
                               
-                        <li>
+                        {/* <li>
                             <span className="icon pe-7s-map-marker"></span>
                             <div className="cont">
                                 <h6>Endereço</h6>
                                 <p>{ appData.address.street } . { appData.address.city }, { appData.address.state } , { appData.address.country }</p>
                             </div>
-                        </li>
+                        </li> */}
                         <li>
                             <span className="icon pe-7s-mail"></span>
                             <div className="cont">

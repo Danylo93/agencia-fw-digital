@@ -1,26 +1,18 @@
 [
   {
-    "id": 1,
-    "title": "Gestão",
-    "subtitle": "das Mídias sociais",
+    "id": 0,
+    "title": "Gestão de Mídias sociais",
     "value": 90
   },
+
   {
-    "id": 2,
-    "title": "Desenvolvimento",
-    "subtitle": "de Aplicativos",
+    "id": 1,
+    "title": "Criação de Sites ",
     "value": 75
   },
   {
-    "id": 3,
-    "title": "Desenvolvimento",
-    "subtitle": "Sites",
-    "value": 65
-  },
-  {
-    "id": 4,
-    "title": "Tráfego",
-    "subtitle": "Pago",
+    "id": 2,
+    "title": "Tráfego Págo",
     "value": 55
   }
 ]
