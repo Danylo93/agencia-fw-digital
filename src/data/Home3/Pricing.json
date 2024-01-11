@@ -1,19 +1,21 @@
 [
   {
     "title": "Gestão de Tráfego Pago",
-    "amount": "R$ 799,00",
+    "amount": "R$ 299,00",
+    "link": "https://pay.kiwify.com.br/PIaF7YK",
     "plan_type": "Mensal",
     "features": [
-      "Tráfego Pago (Google, Meta, LinkedIn e TikTok Ads)",
-      "SEO",
+      "Tráfego Pago (Facebook e Instagram)",
       "Campanhas Ilimitadas",
       "Estratégias de Vendas",
+      "Testes A/B",
       "Relatórios de Desempenho"
     ]
   },
   {
     "title": "Gestão de Mídias Sociais",
-    "amount": "299,00",
+    "amount": "199,00",
+    "link": "https://pay.kiwify.com.br/GET95hL",
     "plan_type": "Mensal",
     "features": [
       "Configuração das Redes Sociais",
@@ -24,15 +26,16 @@
     ]
   },
   {
-    "title": "Criação de Sites ",
-    "amount": "399,00",
-    "plan_type": "Anual",
+    "title": "Criação de Sites",
+    "amount": "299,00",
+    "link": "https://pay.kiwify.com.br/L66gt5K",
+    "plan_type": "Pagamento Único",
     "features": [
       "Web Design Responsivo",
       "Landings Page de alta conversão",
       "Otimização para Motores de Busca",
       "Integração com Redes Sociais",
-      "Suporte Técnico e Manutenção"
+      "**Suporte Técnico e Manutenção"
     ]
   }
 ]

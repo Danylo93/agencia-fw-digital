@@ -43,10 +43,10 @@ const Pricing = () => {
                     </ul>
                   </div>
                   <div className="order">
-                    <Link href="https://wa.me/5511964891128">
-                      <a target='_blank' >Entre em contato</a>
-                    </Link>
-                  </div>
+                            <Link href={plan?.link}>
+                              <a target='_blank'>Contratar Plano</a>
+                            </Link>
+                          </div>
                 </div>
               </div>
             ))
