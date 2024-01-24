@@ -24,7 +24,7 @@ const Index = () => {
       <Block />
       <Works />
       <Testimonials />
-      <Pricing id="pricing" />
+      {/* <Pricing id="#pricing" /> */}
       <Clients />
      
       

@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Site Institucional",
+    "amount": "399,00",
+    "link": "https://pay.kiwify.com.br/6ZXk36G",
+    "plan_type": "Pagamento Único",
+    "features": [
+      "Web Design Responsivo",
+      "Otimização para Motores de Busca",
+      "Integração com Redes Sociais",
+      "**Suporte Técnico e Manutenção"
+    ]
+  },
+  {
+    "title": "Landing Page",
+    "amount": "199,00",
+    "link": "https://pay.kiwify.com.br/FDlOEMU",
+    "plan_type": "Pagamento Único",
+    "features": [
+      "Web Design Responsivo",
+      "Landings Page de alta conversão",
+      "Otimização para Motores de Busca",
+      "Integração com Redes Sociais",
+      "**Suporte Técnico e Manutenção"
+    ]
+  },
+  {
+    "title": "Loja Virtual",
+    "amount": "1500,00",
+    "link": "https://pay.kiwify.com.br/LgLPZiM",
+    "plan_type": "Pagamento Único",
+    "features": [
+      "Web Design Responsivo",
+      "E-commerce",
+      "Otimização para Motores de Busca",
+      "Integração com Redes Sociais",
+      "**Suporte Técnico e Manutenção"
+    ]
+  }
+]

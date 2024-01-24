@@ -55,31 +55,46 @@ const Navbar = ({ navbarRef, logoRef }) => {
                     <a className="nav-link">Home</a>
                   </Link>
             </li>
-                {/* <li className="nav-item">
-                  <Link href="/#pricing">
-                    <a className="nav-link">Planos</a>
-                  </Link>
-                </li> */}
+                <li className="nav-item dropdown" onClick={handleDropdown}>
+                  <span className="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Planos</span>
+              <div className="dropdown-menu">
+                    <Link href="/criar-sites">
+                      <a className="dropdown-item">Criação de Sites</a>
+                    </Link>
+                    <Link href="/mkt-digital">
+                      <a className="dropdown-item">Marketing Digital</a>
+                    </Link>
+                    <Link href="/app-delivery">
+                      <a className="dropdown-item">Aplicativos Delivery</a>
+                </Link>
+                <Link href="/app-pwa">
+                      <a className="dropdown-item">Cardápios Whatsapp</a>
+                    </Link>
+                    <Link href="/robo-atendimento">
+                      <a className="dropdown-item">Sistema CRM e Whatsapp Automatizado</a>
+                    </Link>
+                  </div>
+                </li> 
                 <li className="nav-item">
                   <Link href="/about">
                     <a className="nav-link">Sobre</a>
                   </Link>
                 </li>
-                {/* <li className="nav-item dropdown" onClick={handleDropdown}>
-                  <span className="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Portfolio</span>
+                <li className="nav-item dropdown" onClick={handleDropdown}>
+                  <span className="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Apps Delivery</span>
                   <div className="dropdown-menu">
-                    <Link href="/works1">
-                      <a className="dropdown-item">Masonry 3 Columns</a>
+                    <Link href="/app-delivery">
+                      <a className="dropdown-item">Aplicativo e Painel Administrativo</a>
                     </Link>
-                    <Link href="/works2">
-                      <a className="dropdown-item">Masonry 2 Columns</a>
+                    <Link href="/app-pwa">
+                      <a className="dropdown-item">Aplicativo PWA</a>
                     </Link>
-                    <Link href="/works3">
+                    {/* <Link href="/works3">
                       <a className="dropdown-item">Pinterest List</a>
-                    </Link>
+                    </Link> */}
                   </div>
-                </li> */}
-                {/* <li className="nav-item">
+                </li> 
+                 {/* <li className="nav-item">
                   <Link href="/blog">
                     <a className="nav-link">Blogs</a>
                   </Link>

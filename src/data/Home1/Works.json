@@ -23,9 +23,9 @@
       "tooltip_sub": "E-commerce Shopify"
     },
     "second": {
-      "img": "agency-2/img/work/02.png",
-      "tooltip_title": "Bless me Store",
-      "tooltip_sub": "Gestão de Redes Sociais"
+      "img": "agency-2/img/work/robo.png",
+      "tooltip_title": "Robô de Atendimento ao Whatsapp",
+      "tooltip_sub": "Whatsapp Automatizado"
     }
   },
   {
@@ -35,14 +35,14 @@
       "tooltip_sub": "Site Institucional"
     },
     "second": {
-      "img": "agency-1/img/work/1.jpeg",
-      "tooltip_title": "Criação de Sites",
-      "tooltip_sub": "Landing Page"
+      "img": "agency-2/img/work/app.jpg",
+      "tooltip_title": "Cardápio Digital com Pedidos direto no Whatsapp",
+      "tooltip_sub": "Aplicativo PWA"
     }
   },
   {
-    "img": "agency-1/img/work/2.jpeg",
-    "tooltip_title": "Agencia de Marketing Digital",
-    "tooltip_sub": "Site Institucional"
+    "img": "agency-2/img/work/notebook.png",
+    "tooltip_title": "Painel Administrativo - Stack Food",
+    "tooltip_sub": "ADM Restaurante Delivery"
   }
 ]

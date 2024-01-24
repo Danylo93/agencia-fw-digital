@@ -20,9 +20,9 @@ const Works = () => {
               WorksData.map((work, index) => (
                 <div className={`col-md-6 items ${work.type} ${(index === 0 || index === 2) && 'lg-mr'}`} key={index}>
                   <div className="item-img wow fadeInUp" data-wow-delay=".4s">
-                    <Link href='/project-details'>
-                      <a><img src={work.img} alt="image" /></a>
-                    </Link>
+                    
+                      <img src={work.img} alt="image" />
+                    
                   </div>
                   <div className="cont">
                     <h6>{ work.title }</h6>

@@ -25,6 +25,11 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
+    "/app-delivery": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/app-delivery.js"
+    ],
     "/home1": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",

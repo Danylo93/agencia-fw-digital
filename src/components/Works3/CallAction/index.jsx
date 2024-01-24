@@ -41,8 +41,8 @@ const CallAction = () => {
           </div>
 
           <div className="col-md-4 col-lg-3 valign">
-            <Link href="/contact">
-              <a className="btn-curve btn-lit"><span>Get In Touch</span></a>
+            <Link href="https://app.atendimentorobo.com.br/signup">
+              <a target='_blank' className="btn-curve btn-lit"><span>Testar Plataforma</span></a>
             </Link>
           </div>
         </div>

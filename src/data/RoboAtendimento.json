@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "type": "web",
+    "img": "/assets/img/portfolio/mas1/robo.png",
+    "title": "Multi-Atendente CRM KANBAN",
+    "tags": [
+      "SISTEMA FUNCIONA COM ATENDIMENTOS 24 HORAS",
+
+      "Contém sistema de agendamento. Os clientes poderão fazer agendamentos de serviços",
+
+      "Um único número de WA com múltiplos atendentes",
+
+      "Tenha vários atendentes com apenas um número de WhatsApp",
+
+      "Organize o atendimento da sua empresa, centralize todos os atendimentos em um único lugar e tenha visão clara de toda a comunicação dos atendentes com os clientes."
+    ]
+  },
+  {
+    "id": 2,
+    "type": "web",
+    "img": "/assets/img/portfolio/mas1/robo1.png",
+    "title": "Chat-bot ",
+    "tags": [
+      "Cadastre respostas rápidas, para dar mais velocidade ao atendimento.",
+
+      "Mensagem de boas-vindas, atendimento finalizado"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "web",
+    "img": "/assets/img/portfolio/mas1/robo2.png",
+    "title": "Filas de Atendimento ",
+    "tags": [
+      "Crie suas filas de atendimento como por exemplo, Suporte, Comercial, Financeiro e etc."
+    ]
+  },
+  {
+    "id": 4,
+    "type": "web",
+    "img": "/assets/img/portfolio/mas1/robo3.png",
+    "title": "Kanban e Tarefas",
+    "tags": [
+      "Deixa aviso de tarefas para serem realizadas",
+      " Organizado de tags e acompanhamento do atendimento."
+    ]
+  }
+]

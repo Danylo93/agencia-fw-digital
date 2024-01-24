@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Plano Mensal",
+    "amount": "R$ 29,00",
+    "link": "https://pay.kiwify.com.br/0H1su1P",
+    "plan_type": "Mensal",
+    "features": {
+      "item": null,
+      "item1": [
+        "Painel Administrativo:",
+        "Gerenciamento de pedidos e clientes",
+        "Estatísticas básicas",
+        "Suporte por e-mail"
+      ],
+      "item2": [
+        "Painel do Restaurante:",
+        "Recebimento e gerenciamento de pedidos",
+        "Edição de cardápio básico",
+        "Status de entrega"
+      ],
+      "item3": [
+        "Website Delivery para Clientes:",
+        "Interface responsiva",
+        "Realização de pedidos online",
+        "Rastreamento de pedidos"
+      ]
+    }
+  },
+  {
+    "title": "Plano Semestral",
+    "amount": "R$ 149,00",
+    "link": "https://pay.kiwify.com.br/mVGxetu",
+    "plan_type": "Semestral",
+    "features": {
+      "item": ["Inclui todos os recursos do Plano Starter"],
+      "item1": [
+        "App Delivery para Clientes:",
+        "Facilidade de acesso",
+        "Notificações em tempo real",
+        "Histórico de pedidos"
+      ],
+      "item2": [
+        "App Administrativo do Restaurante",
+        "Gerenciamento avançado de pedidos",
+        "Estatísticas detalhadas",
+        "Configurações de conta personalizadas"
+      ],
+      "item3": [
+        "Suporte Prioritário",
+        "Atendimento prioritário por e-mail ou Whatsapp",
+        "Resposta em até 24 horas úteis"
+      ]
+    }
+  },
+  {
+    "title": "Plano Anual",
+    "amount": "R$ 499,00",
+    "link": "https://pay.kiwify.com.br/iplJeO5",
+    "plan_type": "Anual",
+    "features": {
+      "item": ["Inclui todos os recursos dos planos anteriores"],
+      "item1": [
+        "App do Entregador:",
+        "Atribuição automática de pedidos",
+        "Comunicação com o restaurante"
+      ],
+      "item2": [
+        "Funcionalidades Premium",
+        "Promoções exclusivas",
+        "Integração com redes sociais",
+        "Relatórios avançados"
+      ],
+      "item3": [
+        "Suporte técnico contínuo",
+        "Atendimento prioritário por e-mail ou Whatsapp"
+      ]
+    }
+  }
+]

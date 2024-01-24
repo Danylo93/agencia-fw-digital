@@ -75,8 +75,8 @@ const Works = () => {
           <div className="row justify-content-center">
             <div className="col-lg-7">
               <div className="main-header text-center">
-                <h6>Nosso Portfolio</h6>
-                <h3>Experiências Ilimitadas.</h3>
+                {/* <h6>Confira nossos Trabalhos</h6> */}
+                <h3>Confira nossos Trabalhos:</h3>
               </div>
             </div>
           </div>
