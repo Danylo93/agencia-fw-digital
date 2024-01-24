@@ -29,7 +29,7 @@ const MainLayout = ({ children, footerClass }) => {
 
       <Navbar navbarRef={navbarRef} logoRef={logoRef} />
       {children}
-      <FloatingWhatsApp phoneNumber="5511964891128" accountName="Agência FW Digital" chatMessage="Olá, seja muito bem vindo, em que posso ajuda-lo(a)?" placeholder="Digite aqui a sua mensagem" statusMessage="Marketing e Desenvolvimento" avatar="https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/370001993_134407156399659_3664457339542101492_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=sOGOrHIDzuYAX_nsysm&_nc_ht=scontent-gru2-2.xx&oh=00_AfAS9Ogtprx6s6z9AXQhKQhtqPMcgcFcWZRTg36NdzAhVw&oe=659F0934" />
+      <FloatingWhatsApp phoneNumber="5511964891128" accountName="Agência FW Digital" chatMessage="Olá, seja muito bem vindo, em que posso ajuda-lo(a)?" placeholder="Digite aqui a sua mensagem" statusMessage="Marketing e Desenvolvimento" />
       <Footer classText={footerClass} />
     </>
   );
