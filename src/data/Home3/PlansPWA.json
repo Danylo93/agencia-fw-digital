@@ -1,79 +1,44 @@
 [
   {
     "title": "Plano Mensal",
-    "amount": "R$ 29,00",
-    "link": "https://pay.kiwify.com.br/0H1su1P",
+    "amount": "R$ 39,00",
+    "link": "https://app.jasaiu.com.br/cadastro/",
     "plan_type": "Mensal",
-    "features": {
-      "item": null,
-      "item1": [
-        "Painel Administrativo:",
-        "Gerenciamento de pedidos e clientes",
-        "Estatísticas básicas",
-        "Suporte por e-mail"
-      ],
-      "item2": [
-        "Painel do Restaurante:",
-        "Recebimento e gerenciamento de pedidos",
-        "Edição de cardápio básico",
-        "Status de entrega"
-      ],
-      "item3": [
-        "Website Delivery para Clientes:",
-        "Interface responsiva",
-        "Realização de pedidos online",
-        "Rastreamento de pedidos"
-      ]
-    }
+    "features": [
+      "Assinatura de 30 dias",
+      "Pedidos Ilimitados",
+      "Itens Ilimitados",
+      "Cupom de desconto",
+      "Pagamento online",
+      "O essencial para empresas que estão começando."
+    ]
   },
   {
     "title": "Plano Semestral",
-    "amount": "R$ 149,00",
-    "link": "https://pay.kiwify.com.br/mVGxetu",
+    "amount": "R$ 199,00",
+    "link": "https://app.jasaiu.com.br/cadastro/",
     "plan_type": "Semestral",
-    "features": {
-      "item": ["Inclui todos os recursos do Plano Starter"],
-      "item1": [
-        "App Delivery para Clientes:",
-        "Facilidade de acesso",
-        "Notificações em tempo real",
-        "Histórico de pedidos"
-      ],
-      "item2": [
-        "App Administrativo do Restaurante",
-        "Gerenciamento avançado de pedidos",
-        "Estatísticas detalhadas",
-        "Configurações de conta personalizadas"
-      ],
-      "item3": [
-        "Suporte Prioritário",
-        "Atendimento prioritário por e-mail ou Whatsapp",
-        "Resposta em até 24 horas úteis"
-      ]
-    }
+    "features": [
+      "Assinatura de 180 dias",
+      "Pedidos Ilimitados",
+      "Itens Ilimitados",
+      "Cupom de desconto",
+      "Pagamento online",
+      "Suporte Direto e ferramentas para crescer as vendas."
+    ]
   },
   {
     "title": "Plano Anual",
-    "amount": "R$ 499,00",
-    "link": "https://pay.kiwify.com.br/iplJeO5",
+    "amount": "R$ 399,00",
+    "link": "https://app.jasaiu.com.br/cadastro/",
     "plan_type": "Anual",
-    "features": {
-      "item": ["Inclui todos os recursos dos planos anteriores"],
-      "item1": [
-        "App do Entregador:",
-        "Atribuição automática de pedidos",
-        "Comunicação com o restaurante"
-      ],
-      "item2": [
-        "Funcionalidades Premium",
-        "Promoções exclusivas",
-        "Integração com redes sociais",
-        "Relatórios avançados"
-      ],
-      "item3": [
-        "Suporte técnico contínuo",
-        "Atendimento prioritário por e-mail ou Whatsapp"
-      ]
-    }
+    "features": [
+      "Assinatura de 365 dias",
+      "Pedidos Ilimitados",
+      "Itens Ilimitados",
+      "Cupom de desconto",
+      "Pagamento online",
+      "Indicado para empreendedores quem quer estabilidade, segurança e rapidez por longo prazo."
+    ]
   }
 ]

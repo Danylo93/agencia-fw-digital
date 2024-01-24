@@ -9,7 +9,7 @@ const PlansPWA = () => {
           <div className="col-lg-7">
             <div className="main-header">
               
-              <h3>Planos para Cardápios</h3>
+              <h3>Planos para Sistema de delivery</h3>
             </div>
           </div>
         </div>
@@ -36,34 +36,15 @@ const PlansPWA = () => {
                   <div className="cont">
                     <ul>
                       {
-                        plan.features.item1?.map((item, index) => (
+                        plan.features.map((item, index) => (
                           <li key={index}>{ item }</li>
                           ))
                         }
-                      {' '}
-                       {
-                         plan.features.item2?.map((item, index) => (
-                           <li key={index}>{ item }</li>
-                           ))
-                          }
-                      <br />
-                      {
-                        plan.features.item3?.map((item, index) => (
-                          <li key={index}>{ item }</li>
-                          ))
-                      }
-                      {' '}
-                        {
-                          plan.features.item?.map((item, index) => (
-                            <li key={index}><p>{item }</p></li>
-                          ))
-                        }
-                        
                     </ul>
                   </div>
                   <div className="order">
                             <Link href={plan?.link}>
-                              <a target='_blank'>Contratar Plano</a>
+                              <a target='_blank'>Testar grátis por 7 dias</a>
                             </Link>
                           </div>
                 </div>
