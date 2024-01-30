@@ -1,8 +1,8 @@
 [
   {
     "title": "Plano Mensal",
-    "amount": "R$ 39,00",
-    "link": "https://app.jasaiu.com.br/cadastro/",
+    "amount": "R$ 29,90",
+    "link": "https://delivery.blessme.store/cadastro/",
     "plan_type": "Mensal",
     "features": [
       "Assinatura de 30 dias",
@@ -15,8 +15,8 @@
   },
   {
     "title": "Plano Semestral",
-    "amount": "R$ 199,00",
-    "link": "https://app.jasaiu.com.br/cadastro/",
+    "amount": "R$ 180,00",
+    "link": "https://delivery.blessme.store/cadastro/",
     "plan_type": "Semestral",
     "features": [
       "Assinatura de 180 dias",
@@ -29,8 +29,8 @@
   },
   {
     "title": "Plano Anual",
-    "amount": "R$ 399,00",
-    "link": "https://app.jasaiu.com.br/cadastro/",
+    "amount": "R$ 349,00",
+    "link": "https://delivery.blessme.store/cadastro/",
     "plan_type": "Anual",
     "features": [
       "Assinatura de 365 dias",

@@ -68,7 +68,7 @@ const Navbar = ({ navbarRef, logoRef }) => {
                       <a className="dropdown-item">Aplicativos Delivery</a>
                 </Link>
                 <Link href="/app-pwa">
-                      <a className="dropdown-item">Sistema de delivery</a>
+                      <a className="dropdown-item">Cardápio Digital</a>
                     </Link>
                     <Link href="/robo-atendimento">
                       <a className="dropdown-item">Atendimento Robô</a>
@@ -87,7 +87,7 @@ const Navbar = ({ navbarRef, logoRef }) => {
                       <a className="dropdown-item">Aplicativo e Painel Administrativo</a>
                     </Link>
                     <Link href="/app-pwa">
-                      <a className="dropdown-item">Sistema de delivery</a>
+                      <a className="dropdown-item">Cardápio Digital</a>
                     </Link>
                     {/* <Link href="/works3">
                       <a className="dropdown-item">Pinterest List</a>

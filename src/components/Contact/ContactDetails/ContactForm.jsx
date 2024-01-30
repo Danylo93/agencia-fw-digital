@@ -1,7 +1,10 @@
 import { useState } from "react";
-import { Formik, Form, Field } from "formik";
+import { Formik, Form, Field, } from "formik";
+
+import Link from 'next/link';
 
 const ContactForm = () => {
+  
   const [formData, setFormData] = useState({
     name: "",
     email: "",
@@ -40,61 +43,23 @@ const ContactForm = () => {
   };
 
   return (
+    
     <div className="col-lg-6">
+      
       <div className="form md-mb50">
-        <h4 className="extra-title mb-50">Entre em contato.</h4>
-
-        <Formik
-          initialValues={{
-            name: "",
-            email: "",
-            message: ""
-          }}
-          onSubmit={handleSubmit}
-        >
-          <Form>
-            {
-              errMessage && <div className="messages">{ errMessage }</div>
-            }
-
-            <div className="controls">
-              <div className="form-group">
-                <Field
-                  id="form_name"
-                  type="text"
-                  name="name"
-                  placeholder="Nome"
-                  required="required"
-                />
-              </div>
-
-              <div className="form-group">
-                <Field
-                  id="form_email"
-                  type="email"
-                  name="email"
-                  placeholder="E-mail"
-                  required="required"
-                />
-              </div>
-
-              <div className="form-group">
-                <Field
-                  as="textarea"
-                  id="form_message"
-                  name="message"
-                  placeholder="Mensagem"
-                  rows="4"
-                  required="required"
-                />
-              </div>
-
-              <button type="submit" className="btn-curve btn-lit"><span>Enviar Mensagem</span></button>
-            </div>
-          </Form>
-        </Formik>
-      </div>
+        <h4 className="extra-title mb-50">Agende Uma Reunião conosco.</h4>
+        
+        <div className="col-md-4 col-lg-4 valign">
+            <Link href="https://agencia-fw-digital.reservio.com">
+              <a target='_blank' className="btn-curve btn-lit"><span>Agendar Reunião</span></a>
+            </Link>
+            
+          </div>
     </div>
+    
+      </div>
+    
+    
   )
 }
 
