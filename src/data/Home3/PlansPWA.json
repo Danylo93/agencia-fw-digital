@@ -1,8 +1,8 @@
 [
   {
     "title": "Plano Mensal",
-    "amount": "R$ 29,90",
-    "link": "https://delivery.blessme.store/cadastro/",
+    "amount": "R$ 39,90",
+    "link": "https://pedezap.store/cadastro/",
     "plan_type": "Mensal",
     "features": [
       "Assinatura de 30 dias",
@@ -16,7 +16,7 @@
   {
     "title": "Plano Semestral",
     "amount": "R$ 180,00",
-    "link": "https://delivery.blessme.store/cadastro/",
+    "link": "https://pedezap.store/cadastro/",
     "plan_type": "Semestral",
     "features": [
       "Assinatura de 180 dias",
@@ -30,13 +30,14 @@
   {
     "title": "Plano Anual",
     "amount": "R$ 349,00",
-    "link": "https://delivery.blessme.store/cadastro/",
+    "link": "https://pedezap.store/cadastro/",
     "plan_type": "Anual",
     "features": [
       "Assinatura de 365 dias",
       "Pedidos Ilimitados",
       "Itens Ilimitados",
       "Cupom de desconto",
+      "Chatbot - CRM Integrado",
       "Pagamento online",
       "Indicado para empreendedores quem quer estabilidade, segurança e rapidez por longo prazo."
     ]

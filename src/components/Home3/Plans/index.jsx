@@ -45,7 +45,7 @@ const Plans = () => {
                   </div>
                   <div className="order">
                             <Link href={plan?.link}>
-                              <a target='_blank'>Contratar Plano</a>
+                              <a target='_blank'>Agendar Reunião</a>
                             </Link>
                           </div>
                 </div>

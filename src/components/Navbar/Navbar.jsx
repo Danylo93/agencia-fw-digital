@@ -68,10 +68,10 @@ const Navbar = ({ navbarRef, logoRef }) => {
                       <a className="dropdown-item">Aplicativos Delivery</a>
                 </Link>
                 <Link href="/app-pwa">
-                      <a className="dropdown-item">Cardápio Digital</a>
+                      <a className="dropdown-item">PedZap - Cardápio Digital</a>
                     </Link>
                     <Link href="/robo-atendimento">
-                      <a className="dropdown-item">Atendimento Robô</a>
+                      <a className="dropdown-item">Chatbot + CRM</a>
                     </Link>
                   </div>
                 </li> 

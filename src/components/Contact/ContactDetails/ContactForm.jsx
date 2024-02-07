@@ -51,7 +51,7 @@ const ContactForm = () => {
         
         <div className="col-md-4 col-lg-4 valign">
             <Link href="https://agencia-fw-digital.reservio.com">
-              <a target='_blank' className="btn-curve btn-lit"><span>Agendar Reunião</span></a>
+              <a target='_blank' className="btn-curve btn-lit"><span>Ver Horários Disponíveis</span></a>
             </Link>
             
           </div>
