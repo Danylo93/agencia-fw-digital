@@ -3,11 +3,14 @@ import dynamic from 'next/dynamic';
 const Split = dynamic(() => import("../../Split"), { ssr: false });
 import ContactInfoData from '../../../data/contact.json';
 
+
 const ContactInfo = () => {
   return (
     <div className="col-lg-5 offset-lg-1">
       <div className="cont-info">
         <h4 className="extra-title mb-50">Contato</h4>
+
+       
         <Split className="custom-font wow">
           <h3 data-splitting>Vamos conversar?</h3>
         </Split>

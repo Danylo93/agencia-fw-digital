@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Formik, Form, Field, } from "formik";
+import { InlineWidget } from 'react-calendly';
 
 import Link from 'next/link';
 
@@ -45,20 +46,19 @@ const ContactForm = () => {
   return (
     
     <div className="col-lg-6">
-      
+
       <div className="form md-mb50">
         <h4 className="extra-title mb-50">Agende Uma Reunião conosco.</h4>
-        
-        <div className="col-md-4 col-lg-4 valign">
-            <Link href="https://agencia-fw-digital.reservio.com">
-              <a target='_blank' className="btn-curve btn-lit"><span>Ver Horários Disponíveis</span></a>
-            </Link>
-            
-          </div>
-    </div>
-    
+        <InlineWidget url="https://calendly.com/agencia-fw-digital/30min" />
+
+
+
+
+
+
       </div>
-    
+
+    </div>
     
   )
 }

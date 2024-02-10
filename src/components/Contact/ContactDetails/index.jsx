@@ -1,5 +1,7 @@
 import ContactInfo from './ContactInfo';
 import ContactForm from './ContactForm';
+import { CalendlyEmbed } from 'react-calendly';
+
 
 const Contact = () => {
   return (
@@ -8,6 +10,7 @@ const Contact = () => {
         <div className="row">
           {/* Contact Form */}
           <ContactForm />
+          
           {/* Contact Info */}
           <ContactInfo />
         </div>
