@@ -15,6 +15,7 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <title>Agência FW Digital | Marketing & Desenvolvimento</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+        <meta name="facebook-domain-verification" content="t48m5ho5wn20lxat3rdhkaz8vjuiyg" />
         <>
         <script
           dangerouslySetInnerHTML={{
